@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Sun May 12 00:48:56 PDT 2019
+2.base=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=mydata.json
+4.base=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+count=5
+2.path=lib/arm64-v8a/libsinch-android-rtc.so
+4.set=NATIVE_RESOURCE
+3.path=lib/x86_64/libsinch-android-rtc.so
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/armeabi-v7a/libsinch-android-rtc.so
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=DEX

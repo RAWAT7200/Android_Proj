@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/fragment_display_instructor_coordinatorLayout"
+    android:background="@color/list_bg"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <com.paril.mlaclientapp.ui.view.EmptyRecyclerView
+            android:id="@+id/mla_instructor_display_recyyclerView"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"></com.paril.mlaclientapp.ui.view.EmptyRecyclerView>
+
+        <RelativeLayout
+            android:id="@+id/fragment_display_instructor_relEmptyView"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_centerInParent="true"
+                android:text="No Instructor has been added."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fragment_display_instructor_fabAddUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="10dp"
+        app:backgroundTint="@color/accent_color"
+        android:src="@drawable/ic_add_white" />
+</android.support.design.widget.CoordinatorLayout>

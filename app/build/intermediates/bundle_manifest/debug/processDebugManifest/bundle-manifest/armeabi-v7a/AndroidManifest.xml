@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.paril.mlaclientapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <service android:name="com.paril.mlaclientapp.sinch.SinchService" />
+
+        <activity
+            android:name="com.paril.mlaclientapp.sinch.VideoCallScreenActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paril.mlaclientapp.sinch.CallScreenActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.CallStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paril.mlaclientapp.sinch.IncomingCallScreenActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paril.mlaclientapp.sinch.PlaceCallActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLALoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAHomeActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAViewAdminActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAViewInstructorActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAViewStudentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAViewSubjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.FinalChat"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.paril.mlaclientapp.ui.activity.MLAUpdateGradeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+        <service
+            android:name="com.paril.mlaclientapp.service.AlertTaskIntentService"
+            android:exported="false" >
+        </service>
+
+        <receiver android:name="com.paril.mlaclientapp.receivers.NotificationPublisher" />
+
+        <service
+            android:name="com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

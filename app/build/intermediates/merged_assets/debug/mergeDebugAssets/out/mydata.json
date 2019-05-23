@@ -1,0 +1,20 @@
+{
+  "RECEIVER": {
+    "rec": [
+      {
+        "from": "",
+        "msgSubject": "",
+        "msgBody": "",
+        "creationdate": "",
+        "sessionkey": "",
+        "isreceived": ""
+      }
+    ]
+  },
+  "SENDER":
+  {
+
+  }
+
+
+}

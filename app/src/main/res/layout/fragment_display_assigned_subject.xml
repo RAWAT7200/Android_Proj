@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/fragment_display_assigned_subject_coordinatorLayout"
+    android:background="@color/list_bg"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="My Courses"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp">
+
+
+        <com.paril.mlaclientapp.ui.view.EmptyRecyclerView
+            android:id="@+id/fragment_display_assigned_subject_recyclerView"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"></com.paril.mlaclientapp.ui.view.EmptyRecyclerView>
+
+        <RelativeLayout
+            android:id="@+id/fragment_display_assigned_subject_relEmptyView"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_centerInParent="true"
+                android:text="No Subject has been assigned yet."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

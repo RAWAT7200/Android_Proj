@@ -1,0 +1,46 @@
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/activity_mla_coordinatorLayout"
+    android:layout_height="match_parent">
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    tools:context=".ui.activity.MainActivity"
+    android:id="@+id/dawerLayout">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/mla_fragmentholder">
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/drawer1"
+        android:layout_width="250dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:orientation="vertical"
+        >
+
+
+        <ExpandableListView
+            android:id="@+id/expandableList"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textFilterEnabled="true"
+            android:groupIndicator="@null"
+
+            android:background="@android:color/white"
+            android:dividerHeight="1dp"
+
+            />
+    </LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>
+</android.support.design.widget.CoordinatorLayout>

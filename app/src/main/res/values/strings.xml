@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mobile Learning App</string>
+
+
+    <string name="title_activity_login">MLA</string>
+
+    fragment_mla_adminlist.xml.xml string-->
+    <string name="fragment_display_admin_lblName">Name : </string>
+    <string name="fragment_display_admin_lblUserName">User Name : </string>
+    <string name="fragment_display_admin_lblEmail">Email Id : </string>
+
+
+    <!--common messages-->
+    <string name="check_connection">Please check your internet connection.</string>
+
+    <string name="invalid_email_id">Please enter valid Email Id.</string>
+    <string name="invalid_alt_email_id">Please enter valid Alternate Email Id.</string>
+
+    <string name="invalid_phone_no">Please enter valid Phone Number.</string>
+
+    <string name="enter_all_fields">Please fill all required fields.</string>
+
+    <string name="server_error">Error while connection to server...</string>
+
+    <!--Drawer Menu-->
+    <string name="mla_drawer_open">Open</string>
+    <string name="mla_drawer_close">Close</string>
+
+     <string-array name="contactlist">
+
+         <item>Mohini</item>
+         <item>mukul</item>
+         <item>sheryl</item>
+     </string-array>
+
+</resources>

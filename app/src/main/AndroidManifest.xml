@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.paril.mlaclientapp" >
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false"/>
+
+    <uses-feature android:name="android.hardware.camera" />
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <service android:name=".sinch.SinchService"></service>
+
+        <activity android:name=".sinch.VideoCallScreenActivity" android:screenOrientation="portrait"/>
+
+        <activity android:name=".sinch.CallScreenActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".ui.activity.CallStudentActivity" android:screenOrientation="portrait"/>
+
+        <activity android:name=".sinch.IncomingCallScreenActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".sinch.PlaceCallActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name=".ui.activity.MLALoginActivity"
+            android:screenOrientation="portrait"
+
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.MLAHomeActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name=".ui.activity.MLAViewAdminActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name=".ui.activity.MLAViewInstructorActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+        <activity
+            android:name=".ui.activity.MLAViewStudentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+
+        <activity
+            android:name=".ui.activity.MLAViewSubjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+        <activity
+            android:name=".ui.activity.FinalChat"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+        <activity
+            android:name=".ui.activity.MLAUpdateGradeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
+        <service
+            android:name=".service.AlertTaskIntentService"
+            android:exported="false" >
+        </service>
+        <receiver android:name=".receivers.NotificationPublisher" />
+
+    </application>
+
+</manifest>

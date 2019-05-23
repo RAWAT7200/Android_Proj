@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="16dp"
+    android:layout_gravity="center_vertical"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="Courses"
+        android:layout_width="match_parent"
+        android:layout_marginTop="60dp"
+        android:id="@+id/fragment_home_btnCourses"
+        android:layout_height="wrap_content" />
+
+
+    <Button
+        android:text="Students"
+
+        android:id="@+id/fragment_home_btnStudents"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <Button
+        android:text="Instructors"
+        android:layout_marginTop="20dp"
+
+        android:id="@+id/fragment_home_btnInstructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="INBOX"
+        android:layout_marginTop="20dp"
+
+        android:id="@+id/writemsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="CREATE MESSAGE"
+        android:layout_marginTop="20dp"
+
+        android:id="@+id/createmsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

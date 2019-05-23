@@ -1,0 +1,4 @@
+#Tue May 14 09:15:51 PDT 2019
+base.0=C\:\\Users\\SURAJ\\Desktop\\Android Client Project\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

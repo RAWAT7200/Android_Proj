@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/mla_colorPrimary</item>
+        <item name="android:windowBackground">@color/mla_window_background</item>
+        <item name="colorPrimaryDark">@color/mla_colorSecondary</item>
+        <item name="buttonStyle">@style/PrimaryFlatButton</item>
+    </style>
+
+
+    <style name="PrimaryFlatButton" parent="Theme.AppCompat.Light">
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item>
+        <item name="colorControlHighlight">@color/accent_color</item>
+        <item name="colorAccent">@color/mla_colorSecondary</item>
+        <item name="android:background">@color/accent_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:height">38dp</item>
+        <item name="android:paddingLeft">20dp</item>
+
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/primary_text_color</item>
+    </style>
+
+
+    <style name="SwipeIconStyle">
+
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_margin">5dp</item>
+
+        <item name="android:layout_height">24dp</item>
+
+        <!-- The textColor property is backward compatible with the Support Library -->
+    </style>
+
+
+    <style name="ListLabelText"
+        parent="@android:style/TextAppearance.Medium">
+
+        <item name="android:textSize">16sp</item>
+          <item name="android:layout_marginRight">5dp</item>
+        <!-- The textColor property is backward compatible with the Support Library -->
+    </style>
+
+    <style name="ListDataText"
+        parent="@android:style/TextAppearance.Medium">
+
+        <item name="android:textSize">16sp</item>
+
+        <item name="android:layout_marginRight">5dp</item>
+        <!-- The textColor property is backward compatible with the Support Library -->
+    </style>
+</resources>

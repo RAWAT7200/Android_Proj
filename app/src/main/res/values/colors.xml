@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mla_action_bar_text">#e8f5e9</color>
+    <color name="mla_window_background">#FFFFFF</color>
+    <color name="mla_nav_drawer_divider">#BDBDBD</color>
+    <color name="sinch_purple">#ff63029d</color>
+    <color name="mla_off_white">#fffafafa</color>
+    <color name="greyish">#fff2f1f2</color>
+
+    <color name="mla_colorPrimary">#039be5</color>
+    <color name="mla_colorSecondary">#2277BD</color>
+
+    <color name="mla_seprator">@android:color/black </color>
+
+    <color name="list_bg">#F1F1F1</color>
+
+    <color name="secondary_text_color">#757575</color>
+
+    <color name="primary_text_color">#e8f5e9</color>
+
+    <color name="accent_color">#2277BD</color>
+
+    <color name ="mla_checkbox">#AAAAAA</color>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="FROM"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/from"
+        android:layout_width="match_parent"
+        android:inputType="text"
+        android:hint="contactlist"
+        android:layout_height="wrap_content" />
+
+    <com.pchmn.materialchips.ChipsInput
+        android:id="@+id/chips_input"
+        android:text=""
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:maxRows="3"
+        app:chip_hasAvatarIcon="true"
+        app:chip_backgroundColor="@android:color/white"
+        app:chip_deletable="true"
+        app:chip_deleteIconColor="@android:color/black"
+        app:chip_detailed_textColor="@android:color/black"
+        app:chip_detailed_backgroundColor="@color/list_bg"
+        app:chip_detailed_deleteIconColor="@android:color/black"
+        app:filterable_list_backgroundColor="@android:color/white"
+        app:filterable_list_textColor="@android:color/black"
+        app:hint="Search Recipients" />
+
+   
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Subject"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/sub"
+        android:layout_width="match_parent"
+        android:inputType="text"
+        android:hint="Enter Sub"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="MESSAGE"
+        android:layout_height="wrap_content" />
+
+    <EditText
+         android:id="@+id/msg"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:inputType="text"
+        android:hint="write your msg here"
+        android:maxLength="40"
+         android:lines="5" />
+
+     <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/sd"
+      android:text="SEND" />
+
+</LinearLayout>
+
+
+

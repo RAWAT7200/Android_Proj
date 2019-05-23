@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_new_message_coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+
+            android:layout_height="50dp"
+            android:layout_gravity="top"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="25dp"
+            android:text="To:"
+            android:textAppearance="?android:textAppearanceMedium" />
+        <com.pchmn.materialchips.ChipsInput
+            android:id="@+id/chips_input"
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:maxRows="3"
+            app:chip_hasAvatarIcon="true"
+            app:chip_backgroundColor="@android:color/white"
+            app:chip_deletable="true"
+            app:chip_deleteIconColor="@android:color/black"
+            app:chip_detailed_textColor="@android:color/black"
+            app:chip_detailed_backgroundColor="@color/list_bg"
+            app:chip_detailed_deleteIconColor="@android:color/black"
+            app:filterable_list_backgroundColor="@android:color/white"
+            app:filterable_list_textColor="@android:color/black"
+            app:hint="Search Recipients" />
+
+    </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>

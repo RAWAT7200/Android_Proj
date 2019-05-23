@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\c990e82a70a313ab78d85f40dd166ec7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\b2a4372a40247e75c46bb54549c01d21\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\034c5a830869b20e5df8b787558394c9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.reinaldoarrosi:maskededittext:1.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\maskededittext-1.1.0.aar\f145c0693ba0e799839e186a8532eaf2\AndroidManifest.xml:2:1-13:12
+MERGED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\5165c3ee4a5e894f6c13065d851985cd\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:17:1-31:12
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\ChipsLayoutManager-0.3.7.aar\598577dd7ff0e3f8284fe1b02bab1e6a\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\8c8dbdc2cc3651fb282959be88ae1dd6\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:6:9-51
+uses-feature#android.hardware.camera
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:9:19-57
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:14:5-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:20:22-70
+application
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:22:5-96:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\c990e82a70a313ab78d85f40dd166ec7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\c990e82a70a313ab78d85f40dd166ec7\AndroidManifest.xml:22:5-20
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:29:5-20
+MERGED from [com.github.reinaldoarrosi:maskededittext:1.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\maskededittext-1.1.0.aar\f145c0693ba0e799839e186a8532eaf2\AndroidManifest.xml:11:5-53
+MERGED from [com.github.reinaldoarrosi:maskededittext:1.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\maskededittext-1.1.0.aar\f145c0693ba0e799839e186a8532eaf2\AndroidManifest.xml:11:5-53
+MERGED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:11:5-19:19
+MERGED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\8c8dbdc2cc3651fb282959be88ae1dd6\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\8c8dbdc2cc3651fb282959be88ae1dd6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:26:9-40
+service#com.paril.mlaclientapp.sinch.SinchService
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:27:18-52
+activity#com.paril.mlaclientapp.sinch.VideoCallScreenActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:29:9-103
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:29:65-101
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:29:19-64
+activity#com.paril.mlaclientapp.sinch.CallScreenActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:31:9-98
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:31:60-96
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:31:19-59
+activity#com.paril.mlaclientapp.ui.activity.CallStudentActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:32:9-105
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:32:67-103
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.paril.mlaclientapp.sinch.IncomingCallScreenActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:34:9-106
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:34:68-104
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:34:19-67
+activity#com.paril.mlaclientapp.sinch.PlaceCallActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:35:9-97
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:35:59-95
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:35:19-58
+activity#com.paril.mlaclientapp.ui.activity.MLALoginActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:37:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.paril.mlaclientapp.ui.activity.MLAHomeActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:49:13-57
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:52:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:48:13-56
+activity#com.paril.mlaclientapp.ui.activity.MLAViewAdminActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:57:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:55:13-61
+activity#com.paril.mlaclientapp.ui.activity.MLAViewInstructorActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:61:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:60:13-66
+activity#com.paril.mlaclientapp.ui.activity.MLAViewStudentActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:67:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:68:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:66:13-63
+activity#com.paril.mlaclientapp.ui.activity.MLAViewSubjectActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:75:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:73:13-63
+activity#com.paril.mlaclientapp.ui.activity.FinalChat
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:78:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:80:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:81:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:79:13-50
+activity#com.paril.mlaclientapp.ui.activity.MLAUpdateGradeActivity
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:86:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:87:13-64
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:85:13-63
+service#com.paril.mlaclientapp.service.AlertTaskIntentService
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:90:9-93:19
+	android:exported
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:91:13-59
+receiver#com.paril.mlaclientapp.receivers.NotificationPublisher
+ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:94:9-69
+	android:name
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml:94:19-66
+uses-sdk
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\c990e82a70a313ab78d85f40dd166ec7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\c990e82a70a313ab78d85f40dd166ec7\AndroidManifest.xml:20:5-43
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\MaterialChipsInput-1.0.8.aar\3d5e465de17fae3bd2c462b77fe51379\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\b2a4372a40247e75c46bb54549c01d21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\b2a4372a40247e75c46bb54549c01d21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\034c5a830869b20e5df8b787558394c9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\034c5a830869b20e5df8b787558394c9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.reinaldoarrosi:maskededittext:1.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\maskededittext-1.1.0.aar\f145c0693ba0e799839e186a8532eaf2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.reinaldoarrosi:maskededittext:1.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\maskededittext-1.1.0.aar\f145c0693ba0e799839e186a8532eaf2\AndroidManifest.xml:7:5-9:41
+MERGED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:7:5-9:41
+MERGED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\5165c3ee4a5e894f6c13065d851985cd\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\5165c3ee4a5e894f6c13065d851985cd\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:21:5-23:58
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\ChipsLayoutManager-0.3.7.aar\598577dd7ff0e3f8284fe1b02bab1e6a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\ChipsLayoutManager-0.3.7.aar\598577dd7ff0e3f8284fe1b02bab1e6a\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\8c8dbdc2cc3651fb282959be88ae1dd6\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\8c8dbdc2cc3651fb282959be88ae1dd6\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SURAJ\Desktop\Android Client Project\jinsongo-mla-android-7b143deb8a78\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\b2a4372a40247e75c46bb54549c01d21\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\b2a4372a40247e75c46bb54549c01d21\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\c2cf2df94863a5b4fd45c1f6d6ddf8a8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\67156e35fb512a76c98c4f72d05347d6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\db76816455bdbe183f11ec85a0f6e2b4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\7b64ce22a44851685443110cb16a1559\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\fafcd40b5d89af9ce8ce155805c74e34\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\20dbf65b01d8d631ff08429008a8479e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\8934e86c32cd2813420061e7a902e3ca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\6602fb18132bf970c8408a16150ac528\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\6f9fb224b9c233dcb35c99d310c54008\AndroidManifest.xml:26:9-47
+service#com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService
+ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:13:13-92
+intent-filter#action:name:com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:16:17-80
+	android:name
+		ADDED from [:sinch-android-rtc-3.11.1] C:\Users\SURAJ\.gradle\caches\transforms-1\files-1.1\sinch-android-rtc-3.11.1.aar\f74544a09edda524cf34565443dbadb0\AndroidManifest.xml:16:25-77
